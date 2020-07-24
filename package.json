@@ -1,0 +1,22 @@
+{
+  "name": "document-title-utils",
+  "version": "1.0.0",
+  "description": "To control document title on SPA",
+  "main": "index.js",
+  "author": "Jason Tseng",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jason90929/document-title-utils.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "document title",
+    "html title",
+    "react",
+    "vue"
+  ],
+  "devDependencies": {
+  }
+}
